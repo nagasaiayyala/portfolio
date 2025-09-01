@@ -6,7 +6,8 @@ import {
   SiVercel,
   SiMacos,
 } from "react-icons/si";
-import { AiFillWindows } from "react-icons/ai";
+import { AiFillWindows } from "react-icons/ai"
+
 
 function Toolstack() {
   return (

@@ -4,7 +4,7 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
+  // AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -71,19 +71,19 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
-                  href=""
+                  href="https://x.com/NagasaiAyyala?t=GhisLw9zGb_xPrxZVWq3ZQ&s=08"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://www.linkedin.com/in/nagasai-ayyala-6a8b9928b"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -93,7 +93,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://www.instagram.com/nagasaiayyala"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
