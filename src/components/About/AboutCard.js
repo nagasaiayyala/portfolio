@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Naga Sai Ayyala</span>
             from <span className="purple"> Rajahmundry, India.</span>
             <br />
-            I am currently eLooking For software developer.
+            I am currently Looking For software developer.
             <br />
             I have completed B.Tech (CSE) at JNTU-K
             Kakinada.

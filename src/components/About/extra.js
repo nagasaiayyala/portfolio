@@ -48,12 +48,12 @@ const Extra = () => {
       <Col xs={4} md={2} className="tech-icons">
         <SiAdobephotoshop size={60} />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      {/* <Col xs={4} md={2} className="tech-icons">
         <SiAdobe size={60} title="Substance Painter" />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiAutodesk size={60} title="Autodesk Maya" />
-      </Col>
+      </Col> */}
       <Col xs={4} md={2} className="tech-icons">
         <SiBlender size={60} title="Blender" />
       </Col>      

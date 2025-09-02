@@ -48,13 +48,10 @@ function About() {
         <Toolstack />
 
        <h1 className="project-heading">
-          3d animation <strong className="purple">Softwares </strong>
+          3d Animation <strong className="purple">Softwares </strong>
         </h1>
 
         <Extra />
-
-       
-
         {/* <Github /> */}
       </Container>
     </Container>

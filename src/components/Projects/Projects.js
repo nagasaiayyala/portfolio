@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-
 import blood from "../../Assets/Projects/blood-donation.png"
 import Restaurant from"../../Assets/Projects/RestaurantReservation.png"
 import resumemaker from"../../Assets/Projects/resumemaker.png"
