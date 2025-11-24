@@ -69,7 +69,7 @@ function Projects() {
 
     
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={geminiclone}
               isBlog={false}
@@ -78,7 +78,7 @@ function Projects() {
               ghLink="https://github.com/nagasaiayyala/GeminiClone"
               demoLink="https://gemini-clone-sable-alpha.vercel.app"
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
